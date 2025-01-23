@@ -48,8 +48,8 @@ Review important information about the {kib} 8.x releases.
 
 --
 [[release-notes-8.9.2]]
-== {kib} 8.9.2
-
+== {kib} 8.9.2 
+21
 Review the following information about the {kib} 8.9.2 release.
 
 [float]
